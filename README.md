@@ -2,7 +2,7 @@
 
 - Currently I am developing **ChronoZen and Unsubly**
 
-- I’m currently learning **React, Google API, Google Cloud**
+- Learning **React, Google API, Google Cloud**
 
 - Willing to collaborate and learn about **Chrome Extensions**
 
