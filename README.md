@@ -1,16 +1,18 @@
-<h3 align="center">From a CS Student who is finding his way in the IT world</h3>
+<h1 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=4000&pause=700&color=1DBB09&width=435&lines=Hello+there!+%3A);My+name+is+Leonid+Mehandzhijski.;Welcome+to+my+GitHub+profile!+%3AD" alt="Typing SVG" /></a>
+</h1>
 
-- Currently I am developing **ChronoZen and Unsubly**
+- Currently I am developing **ChronoZen and Unsubly**.
 
-- Learning **React, Google API, Google Cloud**
+- Learning **React, Google API, Google Cloud**.
 
-- Willing to collaborate and learn about **Chrome Extensions**
+- Willing to collaborate and learn about **Chrome Extensions**.
 
-- All of my projects are available at [https://github.com/LeonidMehandzhijski/](https://github.com/LeonidMehandzhijski/)
+- All of my projects are available at [https://github.com/LeonidMehandzhijski/](https://github.com/LeonidMehandzhijski/).
 
-- You can reach me on **leonidmehandzijski@gmail.com**
+- You can reach me on **leonidmehandzijski@gmail.com**.
 
-- Learn more about my experience here [https://www.linkedin.com/in/leonid-mehandzijski/](https://www.linkedin.com/in/leonid-mehandzijski/)
+- Learn more about my experience here [https://www.linkedin.com/in/leonid-mehandzijski/](https://www.linkedin.com/in/leonid-mehandzijski/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
