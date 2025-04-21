@@ -29,7 +29,7 @@
 <!-- Overall stats -->
 <p>
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=leonidmehandzhijski&show_icons=true&locale=en&theme=dark"
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonidMehandzhijski&theme=hacker" alt="GitHub Streak" /></a>
     alt="GitHub stats"
   />
 </p>
