@@ -20,13 +20,13 @@
 
 <!-- Top languages (compact) -->
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonidmehandzhijskj&layout=compact&theme=hacker)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonidmehandzhijskj&layout=compact&theme=chartreuse-dark)
 
 
 <!-- Overall stats -->
 <p>
   <img align="center"
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonidMehandzhijski&theme=hacker" alt="GitHub Streak" ></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonidMehandzhijski&theme=chartreuse-dark" alt="GitHub Streak" ></a>
 
 </p>
 
