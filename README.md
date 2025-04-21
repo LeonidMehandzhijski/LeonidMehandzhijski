@@ -20,7 +20,7 @@
 
 <!-- Top languages (compact) -->
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidmehandzhijskj&layout=compact&theme=chartreuse-dark"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonidmehandzhijski&layout=compact&theme=chartreuse-dark"/>
 
 
 <!-- Overall stats -->
