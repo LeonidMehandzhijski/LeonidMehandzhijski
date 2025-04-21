@@ -8,11 +8,7 @@
 
 - Willing to collaborate and learn about **Chrome Extensions**.
 
-- All of my projects are available at [https://github.com/LeonidMehandzhijski/](https://github.com/LeonidMehandzhijski/).
-
 - You can reach me on **leonidmehandzijski@gmail.com**.
-
-- Learn more about my experience here [https://www.linkedin.com/in/leonid-mehandzijski/](https://www.linkedin.com/in/leonid-mehandzijski/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
