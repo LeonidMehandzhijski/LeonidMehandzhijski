@@ -21,8 +21,7 @@
 <!-- Top languages (compact) -->
 <p >
   <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=leonidmehandzhijski&show_icons=true&locale=en&layout=compact&theme=dark"
-    alt="Top languages"
+    !<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidMehandzhijski&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)"/>
   />
 </p>
 
