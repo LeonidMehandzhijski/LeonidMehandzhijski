@@ -20,9 +20,7 @@
 
 <!-- Top languages (compact) -->
 <p >
-  <img align="left"
     ![LeonidMehandzhijski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidMehandzhijski&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)"
-  />
 </p>
 
 <!-- Overall stats -->
