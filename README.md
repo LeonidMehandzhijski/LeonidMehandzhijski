@@ -21,7 +21,7 @@
 <!-- Top languages (compact) -->
 <p >
   <img align="left"
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidMehandzhijski&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)"/>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonidMehandzhijski&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)"></a>
   />
 </p>
 
@@ -29,7 +29,6 @@
 <p>
   <img align="center"
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonidMehandzhijski&theme=hacker" alt="GitHub Streak" ></a>
-    alt="GitHub stats"
   />
 </p>
 
