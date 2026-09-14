@@ -2,11 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=4000&pause=700&color=1DBB09&width=435&lines=Hello+there!+%3A);My+name+is+Leonid+Mehandzhijski.;Welcome+to+my+GitHub+profile!+%3AD" alt="Typing SVG" /></a>
 </h1>
 
-- Currently I am developing <a href="https://github.com/LeonidMehandzhijski/ChronoZen">@ChronoZen</a> and <a href="https://github.com/LeonidMehandzhijski/Unsubify">@Unsubly</a>.
+- Currently I am developing InkQuest which will be on GitHub soonTM.
 
-- Learning **React, Google API, Google Cloud**.
+- Learning **Python, DevOps, React, Cloud**.
 
-- Willing to collaborate and learn about **Chrome Extensions**.
+- Willing to collaborate and learn about **Networking**.
 
 - You can reach me on **leonidmehandzijski@gmail.com**.
 
