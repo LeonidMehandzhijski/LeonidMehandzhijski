@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&duration=4000&pause=700&color=1DBB09&width=435&lines=Hello+there!+%3A);My+name+is+Leonid+Mehandzhijski.;Welcome+to+my+GitHub+profile!+%3AD" alt="Typing SVG" /></a>
 </h1>
 
-- Currently I am developing InkQuest to learn more about system design and react. I am also working on a log analyzer to learn more about python and CI/CD.
+- Currently I am developing [InkQuest](https://github.com/LeonidMehandzhijski/InkQuest) to learn more about system design and react. I am also working on a [log analyzer](https://github.com/LeonidMehandzhijski/LogAnalyzer) to learn more about python and CI/CD.
 
 - Learning **Python, DevOps, React, Cloud**.
 
